@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Cảm biến nhiệt độ MKE-S05 NTC Temperature Sensor được sử dụng để đo cường độ ánh sáng bằng quang trở LDR (Light Dependent Resistor), thích hợp với các ứng dụng: đo cường độ sáng môi trường, bật tắt đèn tự động,..., cảm biến trả ra giá trị điện áp Analog tuyến tính tương ứng với cường độ ánh sáng của môi trường giúp bạn có thể ghi nhận và xử lý thông tin một cách chính xác nhất, ngoài ra cảm biến còn được bổ sung các thiết kế ổn định, chống nhiễu. 
+Cảm biến nhiệt độ MKE-S05 NTC Temperature Sensor được sử dụng để đo nhiệt độ của môi trường bằng cảm biến nhiệt NTC, cảm biến trả ra giá trị điện áp Analog tuyến tính tương ứng với nhiệt độ môi trường giúp bạn có thể ghi nhận và xử lý thông tin một cách chính xác nhất, ngoài ra cảm biến còn được bổ sung các thiết kế ổn định, chống nhiễu.
 
 Cảm biến nhiệt độ MKE-S05 NTC Temperature Sensor thuộc hệ sinh thái phần cứng Robotics MakerEdu nên có thể sử dụng trực tiếp an toàn với các mạch điều khiển trung tâm ở cả hai mức điện áp 3.3VDC và 5VDC như: Arduino, Raspberry Pi, Jetson Nano, Micro:bit,....với chuẩn kết nối Connector XH2.54 thông dụng.
 
